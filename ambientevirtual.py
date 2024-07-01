@@ -2,8 +2,8 @@ import requests
 
 # Estrutura do dicionário com nome e CEP de cada integrante
 squad = [
-    {"nome": "Dione", "cep": "11630141"},
-    {"nome": "Diony", "cep": "11633422"},
+    {"nome": "Dione Braga", "cep": "11630141"},
+    {"nome": "Diony Costa", "cep": "11633422"},
    
 ]
 
