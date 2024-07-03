@@ -1,3 +1,2 @@
-Nome: João, Cidade: São Paulo
-Nome: Maria, Cidade: São Paulo
-Nome: Pedro, Cidade: São Paulo
+Nome: Dione, Cidade: Ilhabela
+Nome: Diony, Cidade: Ilhabela
